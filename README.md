@@ -6,6 +6,9 @@ Welcome to my GitHub Page. I'm a PO for a European eCommerce Site, who occasiona
 #### Get in touch 
 Twitter: @c_vilander
 
+### Blog
+christofervilander.se
+
 
 
 
