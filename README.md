@@ -7,6 +7,3 @@ Welcome to my GitHub Page. I'm a PO for a European eCommerce Site, who occasiona
 Twitter: @c_vilander Blog: christofervilander.se
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristoferVilander)
-
