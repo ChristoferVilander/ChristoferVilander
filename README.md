@@ -1,10 +1,9 @@
-### Hey 👋
+👋 Hey there!
 
+Welcome to my GitHub Page. I'm a Product Owner for a European Retailer who during my spare time, like to digg into coding, particularly in HTML, CSS, and JavaScript. Lately, I've been diving into the world of .Net / C#. Here, you'll find repositories born out of experimentation – my way of unraveling the intricacies of the web, one piece at a time.
 
-Welcome to my GitHub Page. I'm a PO for a European eCommerce Site, who occasionally writes a line of code or two, preferably HTML, CSS and JavaScript, but I'm currently digging into .Net / C#. Here you'll mostly find repositories of different stuff I created out of "experimental" purpose, basically just to learn a bit more about how the web works, piece by piece.
-
-#### Get in touch 
+#### Let's Connect
 Twitter: @c_vilander 
 Blog: christofervilander.se
 
-
+Feel free to explore, and don't hesitate to reach out. Cheers! 🚀
