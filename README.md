@@ -6,6 +6,7 @@ Lately, I've been diving into the world of .Net / C#. Here, you'll find reposito
 
 #### Let's Connect
 Twitter: @c_vilander 
+
 Blog: christofervilander.se
 
 Feel free to explore, and don't hesitate to reach out. Cheers! 🚀
